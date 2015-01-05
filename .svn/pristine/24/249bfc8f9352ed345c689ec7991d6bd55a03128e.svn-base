@@ -1,0 +1,10 @@
+#info@facele.cl
+#Sun Jul 08 15:48:44 CLT 2012
+SBE.URL.PROTOCOLO=http
+SBE.URL.HOST=2l.no-ip.org
+SBE.URL.PORT=8080
+SBE.URL.FILE=/sbeMaullin/
+SFE.URL.PROTOCOLO=http
+SFE.URL.HOST=2l.no-ip.org
+SFE.URL.PORT=8080
+SFE.URL.FILE=/sfeMaullin/

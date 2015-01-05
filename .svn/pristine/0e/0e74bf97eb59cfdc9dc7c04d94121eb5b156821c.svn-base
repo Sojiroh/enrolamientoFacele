@@ -1,0 +1,32 @@
+#info@facele.cl
+#Sun Jul 08 05:13:24 CLT 2012
+DOCELE.CARGADOCUMENTOS.INFORMES_ELECTRONICOS=C:\Users\juasan\Downloads\prater
+DOCELE.CARGADOCUMENTOS.TRANSFORMADOR=default
+DOCELE.CARGADOCUMENTOS.DIRECTORIO_BOLETAS=C\:/Users/juasan/Downloads/prater
+DOCELE.CARGADOCUMENTOS.DIRECTORIO_FACTURAS=C:\Users\juasan\Downloads\prater
+#Configuracion impresora
+IMPRESION.NOMBRE=HP_Despacho_CM
+IMPRESION.SDEVICE=ljet4
+#Nota: Si desea conocer otros -sDIVECE ejecute en linea de comando "gswin32c" u posteriormente "GS>devicenames =="
+#Las impresoras que entienden directamente PCL5e o PCL6 deberían funcionar con un controlador Ghostscript ljet4 con hasta 600x600 dpi. PCL5e también se conoce a menudo como PCL5.
+#Las impresoras que entienden directamente PCL4 o PCL5 deberían funcionar con un controlador Ghostscript laserjet, ljetplus, ljet2p o ljet3, pero están limitadas a 300x300 dpi. 
+#Las impresoras que entienden PCL3 directamente deberían funcionar con un controlador Ghostscript deskjet, hpdj, pcl3, cdjmono, cdj500 o cdj550. 
+#Las impresoras que entienden directamente ESC/P2, ESC/P o ESC/P Raster deberían funcionar con un controlador Ghostscript stcolor o con uniprint además de utilizar un archivo de parámetros .upp adecuado (por ejemplo stcany.upp). 
+#msprt2
+IMPRESION.CANTIDAD.DEFAULT=0
+IMPRESION.CANTIDAD.CIUDAD.SANTIAGO=0
+IMPRESION.CANTIDAD.DTE_39=0
+IMPRESION.CANTIDAD.DTE_52=0
+IMPRESION.CANTIDAD.RUT_4=
+IMPRESION.CANTIDAD.RUT_3=
+IMPRESION.CANTIDAD.RUT_2=
+IMPRESION.CANTIDAD.RUT_1=
+IMPRESION.CANTIDAD.RUT_0=
+MAIL_SUBJECT=FE-CERTIFICACION
+MAIL_TO=jsanchez@facele.cl
+ENVIO.MAIL.CLIENTE=TRUE
+ENVIO.MAIL.CLIENTE.USER=
+ENVIO.MAIL.CLIENTE.PASS=
+ENVIO.MAIL.CLIENTE.SUBJECT=DTE Certifcacion
+#ENVIO.MAIL.CLIENTE.CC=jcsanchez977@hotmail.com
+ENVIO.MAIL.CLIENTE.CC=
